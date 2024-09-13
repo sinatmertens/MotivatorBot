@@ -3,7 +3,7 @@ from telegram.ext import Updater, MessageHandler, Filters, CallbackContext, Comm
 import logging
 import requests
 import json
-import motivator
+import motivator as arnold
 import mergeaudio
 import os
 import subprocess
